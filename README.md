@@ -28,6 +28,8 @@ Backend Developer with experience developing scalable and performance-oriented b
 ## Backend & APIs
 
 ![net/http](https://img.shields.io/badge/net%2Fhttp-007D9C?style=for-the-badge&logo=go&logoColor=white)
+![pgx](https://img.shields.io/badge/pgx-316192?style=for-the-badge)
+![sqlc](https://img.shields.io/badge/sqlc-316192?style=for-the-badge)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
@@ -38,8 +40,6 @@ Backend Developer with experience developing scalable and performance-oriented b
 ## Databases, Search & Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgx](https://img.shields.io/badge/pgx-316192?style=for-the-badge)
-![sqlc](https://img.shields.io/badge/sqlc-316192?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-287A43?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
